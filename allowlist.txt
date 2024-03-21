@@ -1,0 +1,6 @@
+# Mailchimp
+chimpstatic.com
+mailchimp.com
+
+# Used for tracking Youtube history
+s.youtube.com
