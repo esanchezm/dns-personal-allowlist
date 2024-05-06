@@ -4,3 +4,5 @@ mailchimp.com
 
 # Used for tracking Youtube history
 s.youtube.com
+
+nuskin.com
