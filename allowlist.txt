@@ -6,3 +6,6 @@ mailchimp.com
 s.youtube.com
 
 nuskin.com
+
+# AWS
+sqs.us-east-1.amazonaws.com
