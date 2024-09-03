@@ -9,3 +9,6 @@ nuskin.com
 
 # AWS
 sqs.us-east-1.amazonaws.com
+monitoring.us-east-1.amazonaws.com
+monitoring.ap-southeast-2.amazonaws.com
+monitoring.eu-central-1.amazonaws.com
