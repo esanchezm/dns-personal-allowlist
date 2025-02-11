@@ -16,3 +16,4 @@ monitoring.eu-central-1.amazonaws.com
 
 # Newrelic
 *.newrelic.com
+newrelic.com
