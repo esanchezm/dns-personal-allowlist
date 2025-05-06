@@ -21,3 +21,6 @@ newrelic.com
 
 # Opentelemetry
 open-telemetry.github.io
+
+# OLX
+tracking.olx-st.com
