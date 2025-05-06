@@ -24,3 +24,4 @@ open-telemetry.github.io
 
 # OLX
 tracking.olx-st.com
+kinesis.eu-west-1.amazonaws.com
