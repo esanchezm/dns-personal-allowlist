@@ -14,6 +14,9 @@ monitoring.ap-southeast-1.amazonaws.com
 monitoring.ap-southeast-2.amazonaws.com
 monitoring.eu-central-1.amazonaws.com
 monitoring.eu-west-1.amazonaws.com
+logs.eu-west-1.amazonaws.com
+logs.us-east-1.amazonaws.com
+
 kinesis.eu-west-1.amazonaws.com
 
 # Newrelic
